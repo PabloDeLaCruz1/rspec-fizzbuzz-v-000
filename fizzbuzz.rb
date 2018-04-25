@@ -4,6 +4,7 @@ def fizzbuzz (x)
   end
   else if (x % 5 == 0)
     "Buzz"
+  end
   else if (x % 3 == 0)
     "Fizz"
   end
